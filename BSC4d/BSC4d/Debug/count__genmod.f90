@@ -1,0 +1,7 @@
+        !COMPILER-GENERATED INTERFACE MODULE: Sat Feb 26 08:31:11 2022
+        MODULE COUNT__genmod
+          INTERFACE 
+            SUBROUTINE COUNT
+            END SUBROUTINE COUNT
+          END INTERFACE 
+        END MODULE COUNT__genmod
